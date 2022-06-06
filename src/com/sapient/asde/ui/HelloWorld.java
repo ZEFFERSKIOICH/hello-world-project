@@ -13,6 +13,7 @@ public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         System.out.println("hey guys");
+        System.out.println("hey friends");
         System.out.println("Hi,"+args[0]);
     }
 }
